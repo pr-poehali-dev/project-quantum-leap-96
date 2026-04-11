@@ -75,6 +75,12 @@ export default function HeroSection() {
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Инженер по ремонту холодильного оборудования
                 </p>
+                <a
+                  href="tel:+79965951803"
+                  className="inline-block text-xl font-light text-white/90 transition-colors hover:text-white"
+                >
+                  +7 996 595-18-03
+                </a>
                 <div className="flex gap-6 pt-4">
                   <a
                     href="https://t.me/"
